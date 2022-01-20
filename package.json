@@ -1,0 +1,24 @@
+{
+  "name": "consoletoa",
+  "version": "1.0.0",
+  "description": "Add color to your console!",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+github.com/toankyparty/consoletoa.git"
+  },
+  "keywords": [
+    "Add color to console!",
+    "Console",
+    "Pogger"
+  ],
+  "author": "Toânky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toankyparty/consoletoa/issues"
+  },
+  "homepage": "https://github.com/toankyparty/consoletoa"
+}
